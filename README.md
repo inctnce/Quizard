@@ -1,3 +1,3 @@
 # quizard
 
-https://github.com/quizardapp
+Follow the [link](https://github.com/quizardapp)
